@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-11-21-community-tree-planting-harvington-wood-manor-farm@harvin
+ gtonvillage.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261121T093000
+DTEND:20261121T153000
+SUMMARY:Community tree planting — Harvington Wood\, Manor Farm
+LOCATION:Harvington Wood\, Manor Farm
+DESCRIPTION:Help the Heart of England Forest plant trees at Harvington Wood
+  (Manor Farm\, Anchor Lane\, WR11 8PA)\, the former golf course it is turn
+ ing into woodland. 9.30am to 3.30pm\, in two sessions with a break from 12
+ pm to 1pm. Members of the team will be there to talk about their work and 
+ help you along the way. No experience necessary.\n\nAbout Harvington Wood:
+  https://heartofenglandforest.org/harvington\n\nThe Harvington Website: ht
+ tps://harvingtonvillage.org.uk/events/#ev-2026-11-21-community-tree-planti
+ ng-harvington-wood-manor-farm
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-11-21-community-tree-p
+ lanting-harvington-wood-manor-farm
+END:VEVENT
+END:VCALENDAR

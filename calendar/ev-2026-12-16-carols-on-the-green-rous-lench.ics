@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-16-carols-on-the-green-rous-lench@harvingtonvillage.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261216T183000
+DTEND:20261216T193000
+SUMMARY:Carols on the Green — Rous Lench
+LOCATION:Rous Lench
+DESCRIPTION:The traditional village event to kick off the festive season\, 
+ from 6.30pm. The candlelit carol service in St Peter's Church follows on S
+ unday 20 December at 6.30pm.\n\nThe Harvington Website: https://harvington
+ village.org.uk/events/#ev-2026-12-16-carols-on-the-green-rous-lench
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-12-16-carols-on-the-gr
+ een-rous-lench
+END:VEVENT
+END:VCALENDAR

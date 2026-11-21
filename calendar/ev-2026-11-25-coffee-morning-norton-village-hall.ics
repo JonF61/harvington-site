@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-11-25-coffee-morning-norton-village-hall@harvingtonvillage.org.
+ uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261125T100000
+DTEND:20261125T120000
+SUMMARY:Coffee morning — Norton Village Hall
+LOCATION:Norton Village Hall
+DESCRIPTION:Coffee\, cake and a chat at Norton Village Hall\, 10am to noon\
+ ; all welcome.\n\nThe Harvington Website: https://harvingtonvillage.org.uk
+ /events/#ev-2026-11-25-coffee-morning-norton-village-hall
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-11-25-coffee-morning-n
+ orton-village-hall
+END:VEVENT
+END:VCALENDAR

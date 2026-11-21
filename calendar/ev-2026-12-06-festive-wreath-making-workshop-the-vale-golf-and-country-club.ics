@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-06-festive-wreath-making-workshop-the-vale-golf-and-country-
+ club@harvingtonvillage.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261206T140000
+DTEND:20261206T170000
+SUMMARY:Festive Wreath Making Workshop — The Vale Golf & Country Club
+LOCATION:The Vale Golf & Country Club
+DESCRIPTION:A third Christmas wreath-making workshop at The Vale Golf and C
+ ountry Club\, Bishampton. Sunday 6 December\, 2pm-5pm\, £50 per person. B
+ ooking via the club's website.\n\nFestive Wreath Making Workshop: booking:
+  https://thevaleworcestershire.co.uk/upcoming-events/christmas-wreath-maki
+ ng-workshop-0612/\n\nThe Harvington Website: https://harvingtonvillage.org
+ .uk/events/#ev-2026-12-06-festive-wreath-making-workshop-the-vale-golf-and
+ -country-club
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-12-06-festive-wreath-m
+ aking-workshop-the-vale-golf-and-country-club
+END:VEVENT
+END:VCALENDAR

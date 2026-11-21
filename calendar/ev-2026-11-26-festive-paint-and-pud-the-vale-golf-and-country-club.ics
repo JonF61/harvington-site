@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-11-26-festive-paint-and-pud-the-vale-golf-and-country-club@harv
+ ingtonvillage.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261126T183000
+DTEND:20261126T193000
+SUMMARY:Festive Paint and Pud — The Vale Golf & Country Club
+LOCATION:The Vale Golf & Country Club
+DESCRIPTION:An evening of painting and pudding at The Vale Golf and Country
+  Club\, Bishampton. Thursday 26 November\, 6.30pm\, £45 per person. Booki
+ ng via the club's website.\n\nFestive Paint and Pud: booking: https://thev
+ aleworcestershire.co.uk/upcoming-events/festive-paint-and-pud-night/\n\nTh
+ e Harvington Website: https://harvingtonvillage.org.uk/events/#ev-2026-11-
+ 26-festive-paint-and-pud-the-vale-golf-and-country-club
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-11-26-festive-paint-an
+ d-pud-the-vale-golf-and-country-club
+END:VEVENT
+END:VCALENDAR

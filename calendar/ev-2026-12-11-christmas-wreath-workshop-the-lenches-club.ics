@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-11-christmas-wreath-workshop-the-lenches-club@harvingtonvill
+ age.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261211T190000
+DTEND:20261211T200000
+SUMMARY:Christmas Wreath Workshop — The Lenches Club
+LOCATION:The Lenches Club
+DESCRIPTION:Amulet Blooms is running a Christmas wreath workshop at The Len
+ ches Club on Friday 11 December at 7pm\, using fresh and dried materials f
+ rom its flower farm. It costs £45 per person\, including a glass of fizz 
+ and a mince pie. Book at amuletblooms.co.uk. Returning customers get 10% o
+ ff and can email info@amuletblooms.co.uk if they haven't had their discoun
+ t link.\n\nBook: Amulet Blooms: https://amuletblooms.co.uk\n\nThe Harvingt
+ on Website: https://harvingtonvillage.org.uk/events/#ev-2026-12-11-christm
+ as-wreath-workshop-the-lenches-club
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-12-11-christmas-wreath
+ -workshop-the-lenches-club
+END:VEVENT
+END:VCALENDAR

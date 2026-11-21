@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-11-22-messy-church-light-the-way-harvington-village-hall@harvin
+ gtonvillage.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261122T153000
+DTEND:20261122T173000
+SUMMARY:Messy Church: Light the Way — Harvington Village Hall
+LOCATION:Harvington Village Hall
+DESCRIPTION:An afternoon of crafts\, story and song\, 3.30 to 5.30pm\, fini
+ shing with a full two-course meal\, all free. All ages welcome. Save the d
+ ate: Messy Church is next on Sundays 24 January and 28 February 2027.\n\nT
+ he Harvington Website: https://harvingtonvillage.org.uk/events/#ev-2026-11
+ -22-messy-church-light-the-way-harvington-village-hall
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-11-22-messy-church-lig
+ ht-the-way-harvington-village-hall
+END:VEVENT
+END:VCALENDAR

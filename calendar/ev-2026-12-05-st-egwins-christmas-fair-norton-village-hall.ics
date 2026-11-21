@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-05-st-egwins-christmas-fair-norton-village-hall@harvingtonvi
+ llage.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261205T140000
+DTEND:20261205T160000
+SUMMARY:St Egwin's Christmas Fair — Norton Village Hall
+LOCATION:Norton Village Hall
+DESCRIPTION:St Egwin's Christmas Fair\, 2 to 4pm at Norton Village Hall.\n\
+ nThe Harvington Website: https://harvingtonvillage.org.uk/events/#ev-2026-
+ 12-05-st-egwins-christmas-fair-norton-village-hall
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-12-05-st-egwins-christ
+ mas-fair-norton-village-hall
+END:VEVENT
+END:VCALENDAR

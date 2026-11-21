@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-11-28-christmas-tree-lights-switch-on-abbots-morton@harvingtonv
+ illage.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261128T173000
+DTEND:20261128T183000
+SUMMARY:Christmas tree lights switch-on — Abbots Morton
+LOCATION:Abbots Morton
+DESCRIPTION:Margaret Brewster switches on the village Christmas tree lights
+  at 5.30pm on the village green\, with mulled wine (courtesy of Jackie and
+  Steve Allum) and food. Everyone welcome.\n\nThe Harvington Website: https
+ ://harvingtonvillage.org.uk/events/#ev-2026-11-28-christmas-tree-lights-sw
+ itch-on-abbots-morton
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-11-28-christmas-tree-l
+ ights-switch-on-abbots-morton
+END:VEVENT
+END:VCALENDAR

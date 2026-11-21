@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-19-carol-singing-round-the-christmas-tree-abbots-morton@harv
+ ingtonvillage.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261219T173000
+DTEND:20261219T183000
+SUMMARY:Carol singing round the Christmas tree — Abbots Morton
+LOCATION:Abbots Morton
+DESCRIPTION:Join in round the village Christmas tree from 5.30pm\, led by P
+ ippa\, with food from Martyn and Dawn. Put it in your diary and let's make
+  it a party!\n\nThe Harvington Website: https://harvingtonvillage.org.uk/e
+ vents/#ev-2026-12-19-carol-singing-round-the-christmas-tree-abbots-morton
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-12-19-carol-singing-ro
+ und-the-christmas-tree-abbots-morton
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-11-27-pub-night-rous-lench-village-hall@harvingtonvillage.org.u
+ k
+DTSTAMP:20261121T065650Z
+DTSTART:20261127T193000
+DTEND:20261127T203000
+SUMMARY:Pub night — Rous Lench Village Hall
+LOCATION:Rous Lench Village Hall
+DESCRIPTION:Pop in for a drink and a chat by the log burner from 7.30pm\; a
+ ll welcome.\n\nThe Harvington Website: https://harvingtonvillage.org.uk/ev
+ ents/#ev-2026-11-27-pub-night-rous-lench-village-hall
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-11-27-pub-night-rous-l
+ ench-village-hall
+END:VEVENT
+END:VCALENDAR

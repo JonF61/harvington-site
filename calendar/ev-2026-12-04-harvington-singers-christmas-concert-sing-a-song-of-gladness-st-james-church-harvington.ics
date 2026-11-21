@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-04-harvington-singers-christmas-concert-sing-a-song-of-gladn
+ ess-st-james-church-harvington@harvingtonvillage.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261204T193000
+DTEND:20261204T203000
+SUMMARY:Harvington Singers Christmas Concert: Sing a Song of Gladness! — 
+ St James' Church\, Harvington
+LOCATION:St James' Church\, Harvington
+DESCRIPTION:The Harvington Singers' Christmas concert at 7.30pm (also on Sa
+ turday 5 December at 2.30pm). Tickets £9 for adults\, £5 for children\, 
+ online\, by email (tickets@harvingtonsingers.org.uk) or by phone (07377 93
+ 2557).\n\nBuy tickets: https://harvingtonsingers.org.uk\n\nThe Harvington 
+ Website: https://harvingtonvillage.org.uk/events/#ev-2026-12-04-harvington
+ -singers-christmas-concert-sing-a-song-of-gladness-st-james-church-harving
+ ton
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-12-04-harvington-singe
+ rs-christmas-concert-sing-a-song-of-gladness-st-james-church-harvington
+END:VEVENT
+END:VCALENDAR

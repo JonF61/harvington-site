@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-11-lenches-preschool-xmas-fayre-church-lench-village-hall@ha
+ rvingtonvillage.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261211T153000
+DTEND:20261211T173000
+SUMMARY:Lenches Preschool Xmas Fayre — Church Lench Village Hall
+LOCATION:Church Lench Village Hall
+DESCRIPTION:Stroll\, eat cake and celebrate at the Lenches Preschool's Chri
+ stmas fayre\, with festive craft stalls\, a tombola and seasonal cheer\, 3
+ .30pm to 5.30pm. Stalls are available: contact Sinead (secretary@thelenche
+ spreschool.org.uk) to book a table.\n\nBook a table: mailto:secretary@thel
+ enchespreschool.org.uk\n\nThe Harvington Website: https://harvingtonvillag
+ e.org.uk/events/#ev-2026-12-11-lenches-preschool-xmas-fayre-church-lench-v
+ illage-hall
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-12-11-lenches-preschoo
+ l-xmas-fayre-church-lench-village-hall
+END:VEVENT
+END:VCALENDAR

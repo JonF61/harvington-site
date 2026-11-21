@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-11-28-christmas-fayre-church-lench-village-hall@harvingtonvilla
+ ge.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261128T140000
+DTEND:20261128T160000
+SUMMARY:Christmas Fayre — Church Lench Village Hall
+LOCATION:Church Lench Village Hall
+DESCRIPTION:Attractions for all the family\, 2 to 4pm: stalls of festive ho
+ memade products\, plants\, crafts\, gifts\, toys and bric-a-brac\, seasona
+ l refreshments all afternoon and a Grand Christmas Raffle with a first pri
+ ze of £100. Donations of toys\, children's books\, gifts and bric-a-brac 
+ can be left inside All Saints' Church between 2 and 26 November. For stall
+ s and donations contact Lyndall on 01386 871925 or Nadine at woakesn@hotma
+ il.com.\n\nEmail Nadine: mailto:woakesn@hotmail.com\n\nThe Harvington Webs
+ ite: https://harvingtonvillage.org.uk/events/#ev-2026-11-28-christmas-fayr
+ e-church-lench-village-hall
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-11-28-christmas-fayre-
+ church-lench-village-hall
+END:VEVENT
+END:VCALENDAR

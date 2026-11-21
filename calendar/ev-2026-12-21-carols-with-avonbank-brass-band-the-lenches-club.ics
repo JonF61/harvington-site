@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-21-carols-with-avonbank-brass-band-the-lenches-club@harvingt
+ onvillage.org.uk
+DTSTAMP:20261121T065650Z
+DTSTART:20261221T190000
+DTEND:20261221T200000
+SUMMARY:Carols with Avonbank Brass Band — The Lenches Club
+LOCATION:The Lenches Club
+DESCRIPTION:Avonbank Brass Band returns to The Lenches Club on Monday 21 De
+ cember at 7pm to play Christmas carols\, with song sheets for anyone who w
+ ants to sing along. Entry is free and includes a mince pie and a small mul
+ led wine on arrival. Donations to the band are welcome.\n\nEmail Rhona: ma
+ ilto:rhona.cresswell@yahoo.co.uk\n\nThe Harvington Website: https://harvin
+ gtonvillage.org.uk/events/#ev-2026-12-21-carols-with-avonbank-brass-band-t
+ he-lenches-club
+URL:https://harvingtonvillage.org.uk/events/#ev-2026-12-21-carols-with-avon
+ bank-brass-band-the-lenches-club
+END:VEVENT
+END:VCALENDAR
