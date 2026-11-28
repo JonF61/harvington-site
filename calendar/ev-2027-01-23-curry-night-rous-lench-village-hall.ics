@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2027-01-23-curry-night-rous-lench-village-hall@harvingtonvillage.org
+ .uk
+DTSTAMP:20261128T124127Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Curry night — Rous Lench Village Hall
+LOCATION:Rous Lench Village Hall
+DESCRIPTION:A curry night at Rous Lench Village Hall\; further details to f
+ ollow.\n\nThe Harvington Website: https://harvingtonvillage.org.uk/events/
+ 2027-01-23-curry-night-rous-lench-village-hall/
+URL:https://harvingtonvillage.org.uk/events/2027-01-23-curry-night-rous-len
+ ch-village-hall/
+END:VEVENT
+END:VCALENDAR

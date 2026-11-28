@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-19-christmas-coffee-morning-st-egwin-s-norton@harvingtonvill
+ age.org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261219T100000
+DTEND:20261219T120000
+SUMMARY:Christmas coffee morning — St Egwin's\, Norton
+LOCATION:St Egwin's\, Norton
+DESCRIPTION:Christmas coffee morning at St Egwin's Church\, Norton\, 10am t
+ o noon\; all welcome.\n\nThe Harvington Website: https://harvingtonvillage
+ .org.uk/events/2026-12-19-christmas-coffee-morning-st-egwin-s-norton/
+URL:https://harvingtonvillage.org.uk/events/2026-12-19-christmas-coffee-mor
+ ning-st-egwin-s-norton/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-11-christmas-bingo-norton-village-hall@harvingtonvillage.org
+ .uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261211T193000
+DTEND:20261211T203000
+SUMMARY:Christmas Bingo — Norton Village Hall
+LOCATION:Norton Village Hall
+DESCRIPTION:Christmas bingo at Norton Village Hall on Friday 11 December\, 
+ 7.30 for 8pm.\n\nEmail Caroline: mailto:cj.norton@ymail.com\n\nThe Harving
+ ton Website: https://harvingtonvillage.org.uk/events/2026-12-11-christmas-
+ bingo-norton-village-hall/
+URL:https://harvingtonvillage.org.uk/events/2026-12-11-christmas-bingo-nort
+ on-village-hall/
+END:VEVENT
+END:VCALENDAR

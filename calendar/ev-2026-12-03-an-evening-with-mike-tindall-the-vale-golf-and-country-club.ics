@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-03-an-evening-with-mike-tindall-the-vale-golf-and-country-cl
+ ub@harvingtonvillage.org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261203T183000
+DTEND:20261203T193000
+SUMMARY:An Evening with Mike Tindall — The Vale Golf & Country Club
+LOCATION:The Vale Golf & Country Club
+DESCRIPTION:A talk and evening with former England rugby player Mike Tindal
+ l at The Vale Golf and Country Club\, Bishampton. Thursday 3 December\, 6.
+ 30pm\, £89.95 per person (tables of 8\, £700). Booking via the club's we
+ bsite.\n\nAn Evening with Mike Tindall: booking: https://thevaleworcesters
+ hire.co.uk/upcoming-events/an-evening-with-mike-tindall-2/\n\nThe Harvingt
+ on Website: https://harvingtonvillage.org.uk/events/2026-12-03-an-evening-
+ with-mike-tindall-the-vale-golf-and-country-club/
+URL:https://harvingtonvillage.org.uk/events/2026-12-03-an-evening-with-mike
+ -tindall-the-vale-golf-and-country-club/
+END:VEVENT
+END:VCALENDAR

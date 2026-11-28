@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-11-ptfa-christmas-fair-harvington-first-school@harvingtonvil
+ lage.org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261211T150000
+DTEND:20261211T163000
+SUMMARY:PTFA Christmas Fair — Harvington First School
+LOCATION:Harvington First School
+DESCRIPTION:The school's PTFA Christmas Fair in the school hall\, 3pm to 4.
+ 30pm. See the PTFA diary for details.\n\nThe Harvington Website: https://h
+ arvingtonvillage.org.uk/events/2026-12-11-ptfa-christmas-fair-harvington-f
+ irst-school/
+URL:https://harvingtonvillage.org.uk/events/2026-12-11-ptfa-christmas-fair-
+ harvington-first-school/
+END:VEVENT
+END:VCALENDAR

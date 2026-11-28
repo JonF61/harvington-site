@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-23-christmas-prize-bingo-the-lenches-club@harvingtonvillage.
+ org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261223T191500
+DTEND:20261223T201500
+SUMMARY:Christmas Prize Bingo — The Lenches Club
+LOCATION:The Lenches Club
+DESCRIPTION:Festive prize bingo for all the family at The Lenches Club on W
+ ednesday 23 December. Tickets go on sale at 7.15pm and eyes down is at 8pm
+ . There are prizes on the book and flyer\, and a cash flyer for over-18s a
+ t the end of the evening.\n\nEmail Rhona: mailto:rhona.cresswell@yahoo.co.
+ uk\n\nThe Harvington Website: https://harvingtonvillage.org.uk/events/2026
+ -12-23-christmas-prize-bingo-the-lenches-club/
+URL:https://harvingtonvillage.org.uk/events/2026-12-23-christmas-prize-bing
+ o-the-lenches-club/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2027-01-23-90s-and-00s-january-party-night-the-vale-golf-and-country
+ -club@harvingtonvillage.org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20270123T190000
+DTEND:20270123T200000
+SUMMARY:90s and 00s January Party Night — The Vale Golf & Country Club
+LOCATION:The Vale Golf & Country Club
+DESCRIPTION:A 90s and 00s themed party night with DJ at The Vale Golf and C
+ ountry Club\, Bishampton. Saturday 23 January\, 7pm\, £39 per person. Boo
+ king via the club's website.\n\nJanuary Party Night: booking: https://thev
+ aleworcestershire.co.uk/upcoming-events/january-party-night/\n\nThe Harvin
+ gton Website: https://harvingtonvillage.org.uk/events/2027-01-23-90s-and-0
+ 0s-january-party-night-the-vale-golf-and-country-club/
+URL:https://harvingtonvillage.org.uk/events/2027-01-23-90s-and-00s-january-
+ party-night-the-vale-golf-and-country-club/
+END:VEVENT
+END:VCALENDAR

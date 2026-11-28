@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-12-carols-in-the-club-the-lenches-club@harvingtonvillage.org
+ .uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261212T120000
+DTEND:20261212T130000
+SUMMARY:Carols in the Club — The Lenches Club
+LOCATION:The Lenches Club
+DESCRIPTION:Come and sing carols and enjoy hot mince pies\, noon to 1pm. Al
+ l are welcome.\n\nThe Harvington Website: https://harvingtonvillage.org.uk
+ /events/2026-12-12-carols-in-the-club-the-lenches-club/
+URL:https://harvingtonvillage.org.uk/events/2026-12-12-carols-in-the-club-t
+ he-lenches-club/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-09-cameo-teas-st-jamess-church-harvington@harvingtonvillage.
+ org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261209T150000
+DTEND:20261209T160000
+SUMMARY:Cameo Teas — St James's Church\, Harvington
+LOCATION:St James's Church\, Harvington
+DESCRIPTION:Afternoon tea\, cakes and a friendly chat at St James's Church\
+ , 3pm to 4pm\; all are welcome. For information call Sophie on 01386 87042
+ 1.\n\nThe Harvington Website: https://harvingtonvillage.org.uk/events/2026
+ -12-09-cameo-teas-st-jamess-church-harvington/
+URL:https://harvingtonvillage.org.uk/events/2026-12-09-cameo-teas-st-jamess
+ -church-harvington/
+END:VEVENT
+END:VCALENDAR

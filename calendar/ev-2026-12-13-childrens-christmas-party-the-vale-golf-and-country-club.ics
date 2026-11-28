@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-13-childrens-christmas-party-the-vale-golf-and-country-club@
+ harvingtonvillage.org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261213T110000
+DTEND:20261213T143000
+SUMMARY:Children's Christmas Party — The Vale Golf & Country Club
+LOCATION:The Vale Golf & Country Club
+DESCRIPTION:A Christmas party for children with Santa at The Vale Golf and 
+ Country Club\, Bishampton. Sunday 13 December\, 11am-2.30pm\, £20 per chi
+ ld. Booking via the club's website.\n\nChildren's Christmas Party: booking
+ : https://thevaleworcestershire.co.uk/upcoming-events/childrens-christmas-
+ party-2026/\n\nThe Harvington Website: https://harvingtonvillage.org.uk/ev
+ ents/2026-12-13-childrens-christmas-party-the-vale-golf-and-country-club/
+URL:https://harvingtonvillage.org.uk/events/2026-12-13-childrens-christmas-
+ party-the-vale-golf-and-country-club/
+END:VEVENT
+END:VCALENDAR

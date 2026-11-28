@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-13-st-egwins-carol-service-st-egwins-church-norton@harvingto
+ nvillage.org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261213T150000
+DTEND:20261213T160000
+SUMMARY:St Egwin's Carol Service — St Egwin's Church\, Norton
+LOCATION:St Egwin's Church\, Norton
+DESCRIPTION:Readings and carols at St Egwin's Church\, Norton\, on Sunday 1
+ 3 December at 3pm. The Vale Connections ladies choir will sing two or thre
+ e pieces during the service.\n\nEmail Caroline: mailto:cj.norton@ymail.com
+ \n\nThe Harvington Website: https://harvingtonvillage.org.uk/events/2026-1
+ 2-13-st-egwins-carol-service-st-egwins-church-norton/
+URL:https://harvingtonvillage.org.uk/events/2026-12-13-st-egwins-carol-serv
+ ice-st-egwins-church-norton/
+END:VEVENT
+END:VCALENDAR

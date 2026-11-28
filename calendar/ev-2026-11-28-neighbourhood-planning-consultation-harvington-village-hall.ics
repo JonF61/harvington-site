@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-11-28-neighbourhood-planning-consultation-harvington-village-ha
+ ll@harvingtonvillage.org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261128T140000
+DTEND:20261128T160000
+SUMMARY:Neighbourhood Planning consultation — Harvington Village Hall
+LOCATION:Harvington Village Hall
+DESCRIPTION:Drop in from 2pm to 4pm. We want to hear your views on the envi
+ ronment\, recreation\, community projects and what new housing in our vill
+ age may look like. Come and help shape your vision for our village. Counci
+ llors available to talk to. Refreshments available. You can also hear the 
+ results of the recent housing needs survey\, carried out by Wychavon Distr
+ ict Council for the parish council\, and sign up to join a Community Speed
+ watch team.\n\nThe Harvington Website: https://harvingtonvillage.org.uk/ev
+ ents/2026-11-28-neighbourhood-planning-consultation-harvington-village-hal
+ l/
+URL:https://harvingtonvillage.org.uk/events/2026-11-28-neighbourhood-planni
+ ng-consultation-harvington-village-hall/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-12-st-jamess-christmas-fair-harvington-village-hall@harvingt
+ onvillage.org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261212T110000
+DTEND:20261212T140000
+SUMMARY:St James's Christmas Fair — Harvington Village Hall
+LOCATION:Harvington Village Hall
+DESCRIPTION:Games\, stalls\, Santa's grotto\, café\, raffle\, tombola and 
+ face painting\, 11am to 2pm. Free entry.\n\nEmail St James's Events: mailt
+ o:eventssjch@outlook.com\n\nThe Harvington Website: https://harvingtonvill
+ age.org.uk/events/2026-12-12-st-jamess-christmas-fair-harvington-village-h
+ all/
+URL:https://harvingtonvillage.org.uk/events/2026-12-12-st-jamess-christmas-
+ fair-harvington-village-hall/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-11-christmas-fayre-the-lenches-pre-school@harvingtonvillage.
+ org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261211T153000
+DTEND:20261211T173000
+SUMMARY:Christmas Fayre — The Lenches Pre-School
+LOCATION:The Lenches Pre-School
+DESCRIPTION:The Lenches Pre-School Christmas Fayre is on Friday 11 December
+ \, 3.30pm to 5.30pm\, and all are welcome. There will be a lucky dip\, tom
+ bola\, local traders\, cakes and tea. Tombola donations and bric-a-brac ca
+ n be dropped off at the pre-school between 8.30am and 3.30pm\, or contact 
+ Daisy on 07817739562. To book a stall (£10 a table)\, email the secretary
+ \, Sinead.\n\nBook a stall: email Sinead: mailto:secretary@thelenchespresc
+ hool.org.uk\n\nThe Harvington Website: https://harvingtonvillage.org.uk/ev
+ ents/2026-12-11-christmas-fayre-the-lenches-pre-school/
+URL:https://harvingtonvillage.org.uk/events/2026-12-11-christmas-fayre-the-
+ lenches-pre-school/
+END:VEVENT
+END:VCALENDAR

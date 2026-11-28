@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-06-handbell-ringing-for-the-air-ambulance-st-james-harvingto
+ n-handbell-ringers@harvingtonvillage.org.uk
+DTSTAMP:20261128T124127Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261225
+SUMMARY:Handbell ringing for the Air Ambulance — St James' Harvington Han
+ dbell Ringers
+LOCATION:St James' Harvington Handbell Ringers
+DESCRIPTION:From 6 December until Christmas Eve the ringers play 24 engagem
+ ents\, mostly at supermarket doors\, with every penny going to Midlands Ai
+ r Ambulance Charity and Warwickshire & Northamptonshire Air Ambulance. Eve
+ sham: Morrisons Wed 9 and Thu 17 Dec\, 5–8pm\; Tesco Sun 13 Dec\, 10am
+ –1pm and Wed 16 Dec\, 5–8pm. Stratford-upon-Avon: Waitrose Thu 10 Dec\
+ , 5–8pm and Sat 12 and Tue 22 Dec\, 10am–1pm\; Tesco Tue 15 Dec\, 10am
+ –1pm and Sun 20 Dec\, 1–4pm\; Morrisons Fri 18 Dec\, 10am–1pm and Mo
+ n 21 Dec\, 1–4pm. Alcester: Waitrose Fri 11 Dec\, 2–5pm and Sat 19 and
+  Wed 23 Dec\, 10am–1pm. In Harvington: St James' Church\, Sun 6 Dec at 1
+ 0am\, and Ragley Road on Christmas Eve\, 6.30–7pm. Listen out for the be
+ lls and give what you can.\n\nThe Harvington Website: https://harvingtonvi
+ llage.org.uk/events/2026-12-06-handbell-ringing-for-the-air-ambulance-st-j
+ ames-harvington-handbell-ringers/
+URL:https://harvingtonvillage.org.uk/events/2026-12-06-handbell-ringing-for
+ -the-air-ambulance-st-james-harvington-handbell-ringers/
+END:VEVENT
+END:VCALENDAR

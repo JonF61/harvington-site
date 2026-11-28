@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-09-coffee-morning-norton-village-hall@harvingtonvillage.org.
+ uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261209T100000
+DTEND:20261209T120000
+SUMMARY:Coffee Morning — Norton Village Hall
+LOCATION:Norton Village Hall
+DESCRIPTION:Coffee morning at Norton Village Hall on Wednesday 9 December\,
+  10am to 12 noon.\n\nEmail Caroline: mailto:cj.norton@ymail.com\n\nThe Har
+ vington Website: https://harvingtonvillage.org.uk/events/2026-12-09-coffee
+ -morning-norton-village-hall/
+URL:https://harvingtonvillage.org.uk/events/2026-12-09-coffee-morning-norto
+ n-village-hall/
+END:VEVENT
+END:VCALENDAR

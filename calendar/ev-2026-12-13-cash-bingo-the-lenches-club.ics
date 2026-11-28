@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-13-cash-bingo-the-lenches-club@harvingtonvillage.org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261213T191500
+DTEND:20261213T201500
+SUMMARY:Cash Bingo — The Lenches Club
+LOCATION:The Lenches Club
+DESCRIPTION:Cash bingo at The Lenches Club. Tickets on sale from 7.15pm\, e
+ yes down at 8pm. Cash only\, over-18s only.\n\nThe Harvington Website: htt
+ ps://harvingtonvillage.org.uk/events/2026-12-13-cash-bingo-the-lenches-clu
+ b/
+URL:https://harvingtonvillage.org.uk/events/2026-12-13-cash-bingo-the-lench
+ es-club/
+END:VEVENT
+END:VCALENDAR

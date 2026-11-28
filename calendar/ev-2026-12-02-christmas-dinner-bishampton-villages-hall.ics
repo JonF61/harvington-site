@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Harvington Website//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ev-2026-12-02-christmas-dinner-bishampton-villages-hall@harvingtonvilla
+ ge.org.uk
+DTSTAMP:20261128T124127Z
+DTSTART:20261202T190000
+DTEND:20261202T200000
+SUMMARY:Christmas Dinner — Bishampton Villages Hall
+LOCATION:Bishampton Villages Hall
+DESCRIPTION:Bishampton & District Gardening Club's Christmas dinner\, from 
+ 7pm: a meal with fun\, frivolity\, quizzes and a sing-along. £29 per head
+ . All welcome. To book\, contact the club's chairman\, Pete Chamberlain\, 
+ on 01386 267492 or info@bishamptongardeningclub.org.uk.\n\nEmail the club:
+  mailto:info@bishamptongardeningclub.org.uk\n\nThe Harvington Website: htt
+ ps://harvingtonvillage.org.uk/events/2026-12-02-christmas-dinner-bishampto
+ n-villages-hall/
+URL:https://harvingtonvillage.org.uk/events/2026-12-02-christmas-dinner-bis
+ hampton-villages-hall/
+END:VEVENT
+END:VCALENDAR

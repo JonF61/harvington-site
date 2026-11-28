@@ -1,0 +1,228 @@
+{
+ "at": "2026-11-28T12:41:28.032Z",
+ "pages": [
+  {
+   "url": "/",
+   "title": "Harvington Village Website — events, news and roadworks",
+   "description": "Harvington village website and free weekly newsletter for Harvington, Norton and Lenchwick near Evesham: events, news, regular activities and roadworks.",
+   "h1": "The Harvington Website",
+   "keyword": "Harvington village",
+   "problems": [
+    "Search phrase not in the main heading"
+   ]
+  },
+  {
+   "url": "/bins/",
+   "title": "Bin collection days in Harvington, Norton and Lenchwick",
+   "description": "Bin collection days for Harvington, Norton and Lenchwick, what Wychavon takes in each bin, recycling banks and the nearest tip.",
+   "h1": "Harvington bin collection days",
+   "keyword": "Harvington bin collection",
+   "problems": []
+  },
+  {
+   "url": "/churches/",
+   "title": "Church services in Harvington and Norton, near Evesham",
+   "description": "Harvington church services: Sunday times at St James the Great, Harvington and St Egwin's, Norton, on the ARCH Benefice rota, and other churches nearby.",
+   "h1": "Harvington church services",
+   "keyword": "Harvington church",
+   "problems": []
+  },
+  {
+   "url": "/churches/all-saints-church-lench/",
+   "title": "All Saints' Church, Church Lench — near Harvington",
+   "description": "All Saints', Church Lench, a few miles from Harvington: the Grade II* listed hilltop church's history, bells and Preedy glass, and its next services.",
+   "h1": "All Saints' Church, Church Lench",
+   "keyword": "All Saints Church Lench",
+   "problems": []
+  },
+  {
+   "url": "/churches/st-egwins-norton/",
+   "title": "St Egwin's Church, Parish of Norton and Lenchwick — near Harvington",
+   "description": "St Egwin's Church, Norton, next door to Harvington: its Grade II* listed building, Evesham Abbey lectern, Bigge tombs and next services.",
+   "h1": "St Egwin's Church, Parish of Norton and Lenchwick",
+   "keyword": "St Egwins Church Norton",
+   "problems": [
+    "Search title is long (67 characters; Google shows about 60)"
+   ]
+  },
+  {
+   "url": "/churches/st-james-harvington/",
+   "title": "St James Church, Harvington — the village's parish church",
+   "description": "St James the Great, Harvington's Grade I listed parish church: its Norman tower and green spire, what to see inside, and the next services.",
+   "h1": "St James the Great, Harvington",
+   "keyword": "St James Harvington",
+   "problems": []
+  },
+  {
+   "url": "/churches/st-peters-abbots-morton/",
+   "title": "St Peter's Church, Abbots Morton — near Harvington",
+   "description": "St Peter's, Abbots Morton, north of Harvington: a Grade I listed church with a roof of branch-shaped beams and medieval bells, and its next services.",
+   "h1": "St Peter's Church, Abbots Morton",
+   "keyword": "St Peters Church Abbots Morton",
+   "problems": []
+  },
+  {
+   "url": "/churches/st-peters-rous-lench/",
+   "title": "St Peter's Church, Rous Lench — near Harvington",
+   "description": "St Peter's, Rous Lench, a few miles from Harvington: a Grade I listed Norman church with a carved doorway and Rous family tombs, and its next services.",
+   "h1": "St Peter's Church, Rous Lench",
+   "keyword": "St Peters Church Rous Lench",
+   "problems": []
+  },
+  {
+   "url": "/contact/",
+   "title": "Contact the Harvington website — news, events and about us",
+   "description": "Contact the Harvington website and newsletter, and find out how to send in news and events.",
+   "h1": "Contact the Harvington website",
+   "keyword": "contact the Harvington website",
+   "problems": []
+  },
+  {
+   "url": "/events/",
+   "title": "What's on in Harvington, near Evesham — Events",
+   "description": "What's on in Harvington, Norton and Lenchwick near Evesham: village events, concerts, talks and family days, updated through the week.",
+   "h1": "What's on in Harvington",
+   "keyword": "what's on in Harvington",
+   "problems": []
+  },
+  {
+   "url": "/events/this-weekend/",
+   "title": "This weekend in Harvington — what's on near Evesham",
+   "description": "What's on this weekend in Harvington, Norton and Lenchwick and nearby: Friday evening to Sunday, with times, places and links. Updated every day.",
+   "h1": "This weekend in Harvington",
+   "keyword": "this weekend in Harvington",
+   "problems": []
+  },
+  {
+   "url": "/groups/",
+   "title": "Clubs and groups in Harvington, Norton and Lenchwick",
+   "description": "Clubs and groups in Harvington, Norton and Lenchwick: the community support group, youth project, cricket club and more, with how to get in touch.",
+   "h1": "Harvington clubs and groups",
+   "keyword": "Harvington clubs",
+   "problems": []
+  },
+  {
+   "url": "/halls/",
+   "title": "Village halls in Harvington and Norton — hall hire and bookings",
+   "description": "Hire a village hall in Harvington or Norton: Harvington Village Hall and Norton and Lenchwick Parish Hall, their regular users and how to book.",
+   "h1": "Harvington Village Hall and Norton and Lenchwick Parish Hall",
+   "keyword": "Harvington village hall",
+   "problems": []
+  },
+  {
+   "url": "/living-here/",
+   "title": "Living in Harvington — bins, schools, buses and more",
+   "description": "Living in Harvington, Norton and Lenchwick: bins, churches, schools, health, buses, planning, roads and who to call.",
+   "h1": "Living in Harvington",
+   "keyword": "living in Harvington",
+   "problems": []
+  },
+  {
+   "url": "/living-here/council/",
+   "title": "Harvington Parish Council and councillors, near Evesham",
+   "description": "Harvington and Norton & Lenchwick parish councils, district and county councillors, planning applications and how to report a problem.",
+   "h1": "Harvington and Norton & Lenchwick parish councils",
+   "keyword": "Harvington parish council",
+   "problems": []
+  },
+  {
+   "url": "/living-here/eat/",
+   "title": "Where to eat in Harvington, Norton and Lenchwick — pubs and cafés",
+   "description": "Pubs, cafés and farm-shop cafés in Harvington, Norton and Lenchwick and a short drive away.",
+   "h1": "Pubs in Harvington and places to eat nearby",
+   "keyword": "pubs in Harvington",
+   "problems": []
+  },
+  {
+   "url": "/living-here/getting-around/",
+   "title": "Buses and transport from Harvington to Evesham",
+   "description": "Buses from Harvington to Evesham, on-demand and community transport, trains and roadworks for Harvington, Norton and Lenchwick.",
+   "h1": "Getting around: buses from Harvington to Evesham",
+   "keyword": "buses Harvington to Evesham",
+   "problems": []
+  },
+  {
+   "url": "/living-here/health/",
+   "title": "Harvington doctors, pharmacies and emergencies",
+   "description": "Doctors (GP surgeries), pharmacies, minor injuries, defibrillators and emergency numbers for Harvington, Norton and Lenchwick.",
+   "h1": "Doctors, health and emergencies in Harvington",
+   "keyword": "Harvington doctors",
+   "problems": []
+  },
+  {
+   "url": "/living-here/planning/",
+   "title": "Planning applications in Harvington, Norton and Lenchwick",
+   "description": "Planning applications, decisions and appeals in Harvington and Norton and Lenchwick parishes, week by week, from Wychavon's weekly lists.",
+   "h1": "Planning applications in Harvington",
+   "keyword": "Harvington planning applications",
+   "problems": []
+  },
+  {
+   "url": "/living-here/roads/",
+   "title": "Road closures and roadworks around Harvington, near Evesham",
+   "description": "Road closures and roadworks in and around Harvington, Norton and Lenchwick, on now and coming up, from one.network.",
+   "h1": "Road closures and roadworks around Harvington",
+   "keyword": "road closures Harvington",
+   "problems": []
+  },
+  {
+   "url": "/living-here/schools/",
+   "title": "Harvington school and schools nearby — first to high school",
+   "description": "Harvey Bears pre-school, Harvington CofE First School and the middle and high schools after it, with applying, school travel and holiday dates.",
+   "h1": "Harvington CofE First School and other schools",
+   "keyword": "Harvington school",
+   "problems": []
+  },
+  {
+   "url": "/living-here/what-to-do/",
+   "title": "What to do if… emergency contacts for Harvington",
+   "description": "Harvington emergency contacts: who to call for a power cut, gas leak, flooding, crime, a lost pet, fly-tipping, fallen trees, potholes or a blocked path.",
+   "h1": "What to do if… emergency contacts for Harvington",
+   "keyword": "Harvington emergency contacts",
+   "problems": []
+  },
+  {
+   "url": "/newsletter/",
+   "title": "Free weekly newsletter for Harvington — sign up",
+   "description": "The Harvington newsletter: a free email every Thursday morning with news, events and notices for Harvington, Norton and Lenchwick. Leave whenever you like.",
+   "h1": "The Harvington Newsletter",
+   "keyword": "Harvington newsletter",
+   "problems": []
+  },
+  {
+   "url": "/notices/",
+   "title": "News and notices from Harvington, near Evesham",
+   "description": "News and notices for Harvington, Norton and Lenchwick: parish council statements and news from around the villages.",
+   "h1": "Harvington news and notices",
+   "keyword": "Harvington news",
+   "problems": []
+  },
+  {
+   "url": "/privacy/",
+   "title": "Privacy Policy — Harvington",
+   "description": "How the Harvington website and newsletter collect, use and look after your personal information.",
+   "h1": "Privacy Policy",
+   "keyword": "",
+   "problems": []
+  },
+  {
+   "url": "/regulars/",
+   "title": "Regular clubs and classes in Harvington, near Evesham",
+   "description": "Clubs, classes and groups that meet regularly in Harvington, Norton and Lenchwick, with days, times and contacts.",
+   "h1": "Regular classes and clubs in Harvington",
+   "keyword": "classes in Harvington",
+   "problems": []
+  },
+  {
+   "url": "/search/",
+   "title": "Search — Harvington",
+   "description": "Search the Harvington website for events, news, groups and village information.",
+   "h1": "Search",
+   "keyword": "",
+   "problems": [
+    "Search title is short (19 characters)"
+   ]
+  }
+ ],
+ "eventPages": 31
+}
